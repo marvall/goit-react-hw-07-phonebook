@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "anctrjd-8bfr-66gr-wef2-4f4d57ea2d0",
+      "name": "Hermione Kline",
+      "number": "443-89-12"
+    },
+    {
+      "id": "dkt846a-8bfr-66gr-wef2-4f4d57ea2d0",
+      "name": "Eden Clements",
+      "number": "645-17-79"
+    },
+    {
+      "id": "hr7y3td-8bfr-66gr-wef2-4f4d57ea2d0",
+      "name": "Annie Copeland",
+      "number": "227-91-26"
+    }
+  ]
+}
